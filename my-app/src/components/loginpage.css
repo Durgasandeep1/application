@@ -8,3 +8,21 @@
     display: flex;
     justify-content: space-evenly;
 }
+
+.datacontainer h1 {
+    font-weight: 600px;
+    font-size: 30px;
+}
+.datacontainer input {
+    width: 150px;
+}
+
+.formcontainer {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.errormsg {
+    color: red;
+}
