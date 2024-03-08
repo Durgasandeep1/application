@@ -1,3 +1,10 @@
 .App {
   text-align: center;
+  
+
+}
+#root {
+  background-color: lightcyan;
+  height: 100vh;
+
 }
